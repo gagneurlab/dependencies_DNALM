@@ -12,8 +12,16 @@ This repository contains code for the manuscript and general code to compute and
 
 ## Requirements
 
-SpeciesLM and RiNALMo models require FlashAttention-2 to be installed (https://github.com/Dao-AILab/flash-attention).
+### Software
+SpeciesLM and RiNALMo models require FlashAttention-2 to be installed (https://github.com/Dao-AILab/flash-attention). For details on the packages and versions we used during development and testing, please refer to requirements.txt. These recommendations are provided for reproducibility but your code may run with other versions. The software was developed and tested on Linux using Python 3.8.17.
+
+### Hardware
+NVIDIA GPU (tested on A40)
 
 ## Data
 
 Data with intermediate files for the diffferent manuscript notebooks can be found at: https://doi.org/10.5281/zenodo.12982537 
+
+## SpeciesLM availability
+
+The SpeciesLM models are available in huggingface at https://huggingface.co/collections/johahi/specieslms-678a39261cfff01c1fa3ae41 or at https://doi.org/10.5281/zenodo.12982537. 
