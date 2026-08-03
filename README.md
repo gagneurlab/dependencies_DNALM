@@ -25,3 +25,6 @@ Data with intermediate files for the different manuscript notebooks can be found
 ## SpeciesLM availability
 
 The SpeciesLM models are available in huggingface at https://huggingface.co/collections/johahi/specieslms-678a39261cfff01c1fa3ae41 or at https://doi.org/10.5281/zenodo.14883091. 
+
+
+Funded by "ERC Synergy grant" (Grant ID 101118521, European Research Council)
